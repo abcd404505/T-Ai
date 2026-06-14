@@ -21,9 +21,9 @@ A lightweight and fast interactive Terminal AI Tool designed for Termux and Linu
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
-cd YOUR_REPO
-python ai_tool.py
+git clone https://github.com/abcd404505/T-Ai.git
+cd T-Ai
+python ai.py
 ```
 
 ## ⚙️ Commands
@@ -31,5 +31,6 @@ python ai_tool.py
 **​exit / quit** - Close the tool safely.
 
 ## ​👑 Developer
-**​Author: K.M.H 👑**
+**​Author:** K.M.H 👑
+**Telegram:** @AlexanderXe0n
 ​
